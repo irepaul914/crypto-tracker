@@ -4,8 +4,6 @@
 
 > Front-end design using Vue.js
 
-> [Live Preview](https://dwinjnrct.netlify.com/)
-
 ## Build Setup
 
 ``` bash
